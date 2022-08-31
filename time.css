@@ -1,28 +1,2 @@
 
 
-p1#date{
-    color: #fff;
-    font-size: 68px;
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-p2#time{
-    color: #fff;
-    font-size: 68px;
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-h1{
-    color: #fff;
-    font-size: 60px;
-    position: absolute;
-    top: 15%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
-}
